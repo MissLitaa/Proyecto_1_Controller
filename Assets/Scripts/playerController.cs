@@ -5,9 +5,9 @@ using UnityEngine;
 public class playerController : MonoBehaviour
 {
     //Velocidad de movimiento
-    private float speed = 25;
+    private float speed = 25f;
     //Velocidad de giro
-    private float turnSpeed = 30;
+    private float turnSpeed = 30f;
 
     //Ejes
     private float horizontalInput;
